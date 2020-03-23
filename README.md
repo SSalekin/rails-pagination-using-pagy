@@ -267,7 +267,7 @@ And finally, let's modify the view file to include the pagination buttons.
 And that's it. We're done.
 ![](https://images.viblo.asia/fb22dfc8-532d-48a5-abd4-943deefb11bc.gif)
 
-[Source code](http://www.github.com)
+[Source code](https://github.com/SSalekin/rails-pagination-using-pagy)
 
 # Study material
 https://ddnexus.github.io/pagy/index
